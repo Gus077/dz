@@ -1,6 +1,6 @@
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
-
+// Домашнее задание №5
 public class Main  {
 
     public static final int CARS_COUNT = 4;
@@ -25,7 +25,6 @@ public class Main  {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
         System.out.println("ВАЖНОЕ ОБЪЯВЛЕНИЕ >>> Гонка закончилась!!!");
     }
 }
