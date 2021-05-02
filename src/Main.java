@@ -25,7 +25,6 @@ public class Main  {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
         System.out.println("ВАЖНОЕ ОБЪЯВЛЕНИЕ >>> Гонка закончилась!!!");
     }
 }
